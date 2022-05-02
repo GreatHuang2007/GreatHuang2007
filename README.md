@@ -46,3 +46,17 @@ printf("%d", 0x208);  //很简单
 ``` cpp
 printf("%d", 0x522);  //不容易
 ```
+
+---
+
+网络通信时
+```
+[INFO] 192.168.5.2 disconnected unexpectly.
+[INFO] Stopping data transfer.
+[INFO] Removed %temp%/0xc0a80502.
+```
+这时
+``` sh
+rm -rf %data%/0xc0a80502
+```
+应该不难吧。
