@@ -1,10 +1,7 @@
-### 长风破浪会有时，直挂云帆济沧海。
-
----
+![Alt](https://raw.githubusercontent.com/GreatHuang2007/GreatHuang2007/main/motto.png "optional title")
+# &nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreatHuang2007&show_icons=true&theme=vue&locale=cn)
-
----
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarchStudio&repo=OGFrp&theme=vue)](https://github.com/MarchStudio/OGFrp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GreatHuang2007&repo=HeartCPP&theme=vue)](https://github.com/GreatHuang2007/HeartCPP)
