@@ -15,3 +15,34 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatHuang2007&locale=cn)](https://github.com/GreatHuang2007)
+
+---
+
+我喜欢这样子：
+``` csharp
+try{
+  //do something.
+}
+catch(Exception ex){
+  return ex;
+}
+```
+而不是这样子 ×
+``` csharp
+try{
+  //do something.
+}
+catch(){
+  throw new NullException;
+}
+```
+
+---
+
+当然，我也知道：
+``` cpp
+printf("%d", 0x208);  //很简单
+```
+``` cpp
+printf("%d", 0x522);  //不容易
+```
