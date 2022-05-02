@@ -6,7 +6,7 @@
 
 ---
 
-正在搞的事情……
+  ### 正在搞的事情
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarchStudio&repo=OGFrp)](https://github.com/MarchStudio/OGFrp)
 
@@ -14,7 +14,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatHuang2007&locale=cn)](https://github.com/GreatHuang2007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatHuang2007&locale=cn&theme=vue)](https://github.com/GreatHuang2007)
 
 ---
 
