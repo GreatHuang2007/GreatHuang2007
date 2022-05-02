@@ -55,8 +55,14 @@ printf("%d", 0x522);  //不容易
 [INFO] Stopping data transfer.
 [INFO] Removed %temp%/0xc0a80502.
 ```
-这时
-``` sh
-rm -rf %data%/0xc0a80502
-```
-应该不难吧。
+这时候`rm -rf %data%/0xc0a80502`应该不难吧。
+
+或者期待`[INFO] 192.168.5.2 reconnected.`（?）
+
+---
+
+“自制名言”：
+
+> Never trust everyone unless face to face.
+> 
+> 　　　　　　　　　　　　　　　　　--- GreatHuang2007
