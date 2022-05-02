@@ -6,15 +6,11 @@
 
 ---
 
-  ### 正在搞的事情
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarchStudio&repo=OGFrp&theme=vue)](https://github.com/MarchStudio/OGFrp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GreatHuang2007&repo=HeartCPP&theme=vue)](https://github.com/GreatHuang2007/HeartCPP)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarchStudio&repo=OGFrp)](https://github.com/MarchStudio/OGFrp)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarchStudio&repo=GHSplasher)](https://github.com/MarchStudio/GHSplasher)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatHuang2007&locale=cn&theme=vue)](https://github.com/GreatHuang2007)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarchStudio&repo=GHSplasher&theme=vue)](https://github.com/MarchStudio/GHSplasher)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatHuang2007&layout=compact&locale=cn&theme=vue)](https://github.com/GreatHuang2007)
 
 ---
 
